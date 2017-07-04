@@ -2,7 +2,8 @@
 
 "THIS IS THE TITLE"
 
-<ul>Look at the following:
+Look at the following:
+<ul>
 <li>1</li>
 <li>2</li>
 <li>Three</li>
